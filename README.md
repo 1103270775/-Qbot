@@ -11,10 +11,14 @@ qq机器人学习过程
 我选择的是安装一个windowsXp的系统（安装时镜像文件要好好选，不然装不上）
 对于镜像真滴是要选一下，不然不是装不上就是一堆病毒（虽然没啥影响就是了）。
 下面列举几个资源：
+
 1.虚拟机 Invalid system disk 错误解决方法
 	https://blog.csdn.net/baishuiniyaonulia/article/details/78413099
+	
 2.VM虚拟机装Windows XP系统（建议看完，蛮多要注意的点）
 https://blog.csdn.net/zz56z56/article/details/80221467
+
+
 虚拟机安装好了，我们要怎么实现它与主机的文件交换呢？
 	对于这种情况我们可以通过开启共享文件夹来实现主机和虚拟机的文件交换.
 
@@ -22,12 +26,18 @@ https://blog.csdn.net/zz56z56/article/details/80221467
 当然部署在自己的电脑上始终有些不方便，那我现在就来介绍一下如何搭建在自己的vps（针对linux/mac操作系统）上。
 	关于vps的配置要求及购买的话可以参考一下这个链接：
 http://www.vpsjxw.com/vps_use/kuq_python_demo/
+
+
 在vps上搭建就需要使用docker
+
 1.	什么是docker？
 30分钟快速入门Docker教程
 	https://yq.aliyun.com/articles/697444?spm=a2c4e.11155472.0.0.3fbe7a95UKQPw7
+	
+	
 2.	安装docker（这种东西最好还是去官网下载）
 https://www.docker.com/get-started
+
 3.	在Linux通过docker安装酷Q
 https://www.cnblogs.com/tielemao/p/8462263.html
 
