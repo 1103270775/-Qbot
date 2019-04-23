@@ -41,4 +41,4 @@ https://www.docker.com/get-started
 3.	在Linux通过docker安装酷Q
 https://www.cnblogs.com/tielemao/p/8462263.html
 
-以上就是我这几天的学习历程.
+以上就是我这几天的学习历程.（那个压缩包是编辑好的机器人，并且已经搭载了一些功能）
